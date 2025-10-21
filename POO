@@ -1,0 +1,7 @@
+Le projet inclut la création de classes pour gérer :
+- le corpus de textes (`Corpus`),
+- la tokenisation et le prétraitement (`Tokenizer`),
+- l'analyse des textes (`Analyzer`),
+- la classification des textes (`Classifier`).
+
+Cette version orientée objet facilite l'extension et la maintenance du code par rapport à la version procédurale initiale.
