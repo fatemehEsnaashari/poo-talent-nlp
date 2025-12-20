@@ -1,9 +1,9 @@
-🔍 Travail réalisé
+Travail réalisé:
 
 Dans le cadre de ce projet, un code Python existant issu du cursus de Master 1 IDL a été refactorisé pour adopter une approche orientée objet (POO).
 L’objectif était de transformer un script initialement procédural en un ensemble de classes cohérentes, modulaires et réutilisables, tout en conservant la même fonctionnalité principale dans le domaine du traitement automatique du langage (TAL).
 
-🧱 Étapes du travail
+Étapes du travail
 
 Analyse du code initial
 
@@ -53,7 +53,7 @@ Présentation de la structure des classes, des liens entre elles et des avantage
 
 Discussion des choix techniques et des bonnes pratiques de POO appliquées.
 
-✅ Résultats obtenus
+Résultats obtenus:
 
 Le code est désormais plus modulaire, clair et extensible.
 
